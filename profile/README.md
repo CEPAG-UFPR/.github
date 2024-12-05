@@ -8,7 +8,7 @@
 ## Projetos:
 <a href="https://campusmap.ufpr.br/" target="_blank"><img src="https://github.com/CEPAG-UFPR/.github/blob/main/icon/ufpr_campusmap.png" height="30"></a>
 <a href="https://ufpr-campusmap-cepag-ufpr.hub.arcgis.com/" target="_blank"><img src="https://github.com/CEPAG-UFPR/.github/blob/main/icon/ucm_2_0.png" height="30"></a>
-<a href="https://play.google.com/store/apps/details?id=org.ufpr.ucm.app&hl=pt_BR" target="_blank"><img src="https://github.com/CEPAG-UFPR/.github/blob/main/icon/ucm_mobile.png" height="30"></a>
+<a href="https://linktr.ee/UFPRCampusMap" target="_blank"><img src="https://github.com/CEPAG-UFPR/.github/blob/main/icon/ucm_mobile.png" height="30"></a>
 <a href="https://www.instagram.com/campusmapufpr/" target="_blank"><img src="https://github.com/CEPAG-UFPR/.github/blob/main/icon/ucm_instagram.png" height="30"></a>
 <br>
 <a href="https://campusmap.ufpr.br/topocalc/" target="_blank"><img src="https://github.com/CEPAG-UFPR/.github/blob/main/icon/topocalc.png" height="30"></a>
