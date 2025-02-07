@@ -18,7 +18,7 @@
 
 ---
 
-### 🔒 **Acesso exclusivo para a equipe interna do CEPAG-UFPR**  
+### 🔒 **Acesso exclusivo para a equipe interna do CEPAG-UFPR:**  
 
 Essa área está disponível apenas para membros do CEPAG-UFPR que possuem conta no GitHub e foram adicionados à equipe interna.  
 
