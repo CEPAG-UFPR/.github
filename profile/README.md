@@ -24,4 +24,4 @@ Essa área está disponível apenas para membros do CEPAG-UFPR que possuem conta
 
 #### Repositórios: 
 
-<p align="justify">➡️ <a href="https://github.com/CEPAG-UFPR/cepag-modelos/tree/main">CEPAG-Modelos</a>: Repositório que reúne exemplos de código, tutoriais e modelos organizados para facilitar o aprendizado e a implementação de funcionalidades nos projetos do CEPAG. </p>
+<p align="justify">➡️ <a href="https://github.com/CEPAG-UFPR/cepag-modelos">CEPAG-Modelos</a>: Repositório que reúne exemplos de código, tutoriais e modelos organizados para facilitar o aprendizado e a implementação de funcionalidades nos projetos do CEPAG. </p>
